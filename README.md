@@ -1,6 +1,6 @@
 Hi, I'm Maria Eliza Farina 😊
 
-- 🔭 I’m currently working with Logistic, while studying front end development.
+- 🔭 I’m currently working with Payroll, while studying web development.
 - 🌱 I’m currently learning Javascript
 - 👯 I’m looking to collaborate on projects and looking for an internship 
 - 📫 How to reach me: elizafarina@gmail.com
